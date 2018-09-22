@@ -1,5 +1,8 @@
 _repo: Ports-of-Entry-Missionary-Herald_55955
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55955-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Missions, Council of Women for Home
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48594'
     url: http://www.gutenberg.org/2009/agents/48594
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55955#Ports-of-Entry-Missionary-Herald
 gutenberg_issued: '2017-11-13'
 gutenberg_type: Text
 identifiers:
